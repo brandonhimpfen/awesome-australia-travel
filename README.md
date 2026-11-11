@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Australia, covering official portals, transport, region guides, national parks, and remote work resources.
 
+Australia is a unique island continent featuring cosmopolitan coastal cities, vast arid outback deserts, ancient Indigenous heritage, and the world's largest coral reef ecosystem. This list is intended for road-trip travelers, wildlife explorers, scuba diving enthusiasts, and coastal adventurers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
